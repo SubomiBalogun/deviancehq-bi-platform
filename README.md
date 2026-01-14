@@ -1,14 +1,22 @@
-# deviancehq-bi-platform
-Scalable BI dashboards and data pipelines for CRM, backend systems, and compliance tracking
 # DevianceHQ Business Intelligence Platform
 
-## Business Problems
+## Business Context
+DevianceHQ provides custom backend systems, CRM automation, and compliance support. 
+The company needs reliable visibility into customer activity, system performance, revenue, and compliance risk across multiple data sources.
 
-1. Leadership lacks a real-time overview of CRM performance and client lifecycle  
-2. No centralized view of compliance status across clients  
-3. Backend system usage data is fragmented  
-4. Manual reporting causes delays and inconsistencies  
-5. No standardized KPI definitions across teams  
+## Business Questions
 
-**BI Engineer Responsibility:**  
-Create scalable dashboards and data pipelines to enable data-driven decision-making.
+### Executive Questions
+- How is the business performing overall?
+- Are we growing or declining?
+- Which clients and services generate the most value?
+
+### Operations Questions
+- How reliable are backend systems?
+- Are SLAs being met?
+- Where are operational bottlenecks?
+
+### Compliance Questions
+- Which clients are at compliance risk?
+- How many unresolved compliance issues exist?
+- Are response times within regulatory limits?
